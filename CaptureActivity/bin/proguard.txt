@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:69
+-keep class com.sitech.oncon.barcode.core.CaptureActivity { <init>(...); }
+
+# view res/layout/capture.xml #generated:27
+-keep class com.sitech.oncon.barcode.core.ViewfinderView { <init>(...); }
+
